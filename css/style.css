@@ -59,10 +59,12 @@
 
   .change-quote:active,
   .settings:active,
-  .footer-logo-gh:hover{
+  .footer-logo-gh:hover,
+  .get-translation:active,
+  .get-translation-hide:active{
 	border: 0;
 	outline: 0;  
-	transform: scale(1.1);
+	transform: scale(1.2);
   }
   
   .main {
@@ -490,7 +492,7 @@
 		display: flex;
 		align-items: flex-start;
 		width: 90%;
-		height: 32vh;
+		height: 28vh;
 		min-height: 220px;
 		margin-left: 20px;
 		padding: 20px;

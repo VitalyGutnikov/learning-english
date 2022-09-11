@@ -135,84 +135,136 @@
 ],
 [
 	{
-	  "text": "Write code as if it were accompanied by a violent psychopath who knows where you live",
-	  "author": "Steve McConnell"
-	},
-	{
-	  "text": "The complexity of the program grows until it exceeds the ability of the programmer",
-	  "author": "Arthur Bloch. Murphy's laws"
-	},
+		"text": "statement",
+		"translation": "заявление, утверждение"
+	  },
 	  {
-	  "text": "It's very easy to walk on water and develop programs following the ToR... if they are frozen",
-	  "author": "I. Berard"
-	},
-	{
-	"text": "What the human mind can comprehend and believe, it can achieve",
-	"author": "Napoleon Hill, journalist and writer"
-  	},
+		  "text": "space",
+		  "translation": "пробел, пространство, место, площадь, помещение, интервал"
+	  },
+		{
+		  "text": "newline",
+		  "translation": "новая строка, перевод строки, перенос строки"
+	  },
 	  {
-	  "text": "Strive not for success, but for the values ​​it gives",
-	  "author": "Albert Einstein"
-	},
-	{
-	"text": "I owe my success to never making excuses or accepting excuses from others.",
-	"author": "Florence Nightingale"
-  	},
+		  "text": "tab",
+		  "translation": "прогр. Табуляция, вкладка, закладка"
+		},
+		{
+		  "text": "whitespace",
+		  "translation": "пробел, пробельые символы"
+	  },
 	  {
-	  "text": "Everything has its beauty, but not everyone can see it",
-	  "author": "Confucius"
-	},
-	{
-	"text": "The hardest thing is to start acting, everything else depends only on perseverance",
-	"author": "Amelia Earhart"
-  	},
+		  "text": "tokens",
+		  "translation": "прогр. Последовательность входных элементов, жетоны"
+		},
+		{
+		  "text": "hoisting",
+		  "translation": "прил. подъемный, грузоподъемный, сущ. подъем, подъемник"
+	  },
 	  {
-	  "text": "We must love life more than the meaning of life",
-	  "author": "I. Berard"
-	},
-	{
-	"text": "It's very easy to walk on water and develop programs following the ToR... if they are frozen",
-	"author": "Fedor Dostoevsky"
-  	},
+		  "text": "oppositive",
+		  "translation": "противоположный"
+		},
+		{
+		  "text": "quotient",
+		  "translation": "частное, коэффициент, фактор"
+	  },
 	  {
-	  "text": "Life is what happens to you while you're making plans",
-	  "author": "John Lennon"
-	},
-	{
-	"text": "Logic can take you from point A to point B, and imagination can take you anywhere",
-	"author": "Albert Einstein"
-  	},
+		  "text": "equal",
+		  "translation": "равный, одинаковый, равносильный, равнозначный, равноправный"
+	  },
 	  {
-	  "text": "When I let go of who I am, I become who I can be",
-	  "author": "Lao Tzu"
-	},
-	{
-	"text": "It is always worth starting with something that sows doubt",
-	"author": "Boris Strugatsky"
-  	},
+		  "text": "escape sequance",
+		  "translation": "прогр. Экраннированная последовательность"
+		},
+		{
+		  "text": "escape",
+		  "translation": "побег, бегство"
+	  },
 	  {
-	  "text": "Real responsibility is only personal.",
-	  "author": "Fazil Iskander"
-	},
-	{
-	"text": "Your time is limited, don't waste it living someone else's life",
-	"author": "Steve Jobs"
-  	},
+		  "text": "sequance",
+		  "translation": "последовательность"
+		},
+		{
+		  "text": "greeting",
+		  "translation": "приветствие"
+	  },
 	  {
-	  "text": "Вы никогда не пересечете океан, если не наберетесь мужества потерять берег из виду",
-	  "author": "Христофор Колумб"
-	},
-	{
-	"text": "Два самых важных дня в твоей жизни: день, когда ты появился на свет, и день, когда понял, зачем",
-	"author": "Марк Твен"
-  	},
+		  "text": "amount",
+		  "translation": "количество"
+		},
+		{
+		  "text": "count",
+		  "translation": "считать"
+	  },
 	  {
-	  "text": "Слабые люди всю жизнь стараются быть не хуже других. Сильным во что бы то ни стало нужно стать лучше всех",
-	  "author": "Борис Акунин"
-	},
-	{
-	"text": "Успех — это способность идти от поражения к поражению, не теряя оптимизма",
-	"author": "Уинстон Черчилль"
-  	}
+		  "text": "exclamation",
+		  "translation": "восклицание, вопль, крик"
+		},
+		{
+		  "text": "exclamation mark",
+		  "translation": "восклицательный знак"
+	  },
+	  {
+		  "text": "question",
+		  "translation": "вопрос"
+		},
+		{
+		  "text": "spicy",
+		  "translation": "острый"
+	  },
+	  {
+		  "text": "great",
+		  "translation": "отлично"
+		},
+		{
+		  "text": "help yourself",
+		  "translation": "угощайся"
+	  },
+	  {
+		  "text": "put up",
+		  "translation": "смириться"
+	  },
+	  {
+		  "text": "prepositions",
+		  "translation": "предлоги"
+	  },
+	  {
+		  "text": "pretext",
+		  "translation": "предлог, отговорка"
+	  },
+	  {
+		  "text": "excuse",
+		  "translation": "оправдание, отговорка, извинение"
+	  },
+	  {
+		  "text": "guise",
+		  "translation": "облик, маска, вид, наружность"
+	  },
+	  {
+		  "text": "plea",
+		  "translation": "заявление, просьба, призыв, мольба, довод"
+	  },
+	  {
+		  "text": "clook",
+		  "translation": "плащ, мантия, покров, маска, личина, отговорка"
+	  },
+	  {
+		  "text": "color",
+		  "translation": "цвет, краскаЮ оттенок, свет, фон"
+	  },
+	  {
+		  "text": "reil",
+		  "translation": "вдаль, завеса, покрывало, фата, покров, пелена"
+	  },
+	  {
+		  "text": "cover",
+		  "translation": "крышка, обложка, чехол, покров, кожух, прикрытие"
+	  },
+	  {
+		  "text": "handle",
+		  "translation": "ручка, рукоятка, рукоять, удобный случай, сбор, вручение"
+	  }
 ]
   ]  
