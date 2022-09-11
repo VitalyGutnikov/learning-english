@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 24" width="25" height="24">
+	<title>Ic_fullscreen_48px</title>
+	<defs>
+		<image  width="23" height="22" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAWCAMAAAAcqPc3AAAAAXNSR0IB2cksfwAAAIFQTFRF4N3m4N3m4N3m4N3m4N3m4N3m4N3m4N3m4N3m4N3m4N3m4N3m4N3m4N3m4N3m4N3m4N3m4N3m4N3m4N3m4N3m4N3m4N3m4N3m4N3m4N3m4N3m4N3m4N3m4N3m4N3m4N3m4N3m4N3m4N3m4N3m4N3m4N3m4N3m4N3m4N3m4N3m4N3mDfU/AQAAACt0Uk5TJ8fJewChMv7/rf3M6HptSmyR1hc/LNW0EzSyBy0uJgQLHbu8nRF4/Puq+WX3TrkAAAB2SURBVHicY2BgZAIDZhYwgPJYGdjYOcCAEyLOBeFx4xPn4eXj4+OHiAsAmYLsEHEhYRYUIEKOuKiYkLgEqrikmJAUg7SMrJw8qriCjKwiAwt2QHNxRSVlFVVUMVklZTWqhQMecXZ1DQ0NTYiYFpCpTiC+sIkDAMKAD2jWgEm1AAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="1" y="1"/>
+</svg>
