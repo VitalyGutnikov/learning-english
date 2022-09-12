@@ -138,7 +138,6 @@ async function getQuotes() {
 
   function getQuotesNext(){
 	randomNum < 33 ? randomNum++ : randomNum = 0;
-	data[0].push({text: 'hello', translation: 'привет'})
 	console.log(data[0])
 	getQuotes()
 }
@@ -148,7 +147,7 @@ async function getQuotes() {
 		isClickButtonTranslation = true;
 		// getTranslation.textContent = 'Show translation';
 		getTranslation.classList.toggle('get-translation-hide')
-		data[0].push({text: 'hello', translation: 'привет'})
+		// data[0].push({text: 'hello', translation: 'привет'})
 		console.log(data[0])
 		translation.style.opacity = '0';
 		settingsCheckboxTime.value = 'on';

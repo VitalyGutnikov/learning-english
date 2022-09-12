@@ -1,136 +1,176 @@
 [ 
 	[
 	{
-	  "text": "statement",
-	  "translation": "заявление, утверждение"
+	  "text": "заявление, утверждение",
+	  "translation": "statement"
 	},
 	{
-		"text": "space",
-		"translation": "пробел, пространство, место, площадь, помещение, интервал"
+		"text": "пробел, пространство, место, площадь, помещение, интервал",
+		"translation": "space"
 	},
 	  {
-		"text": "newline",
-		"translation": "новая строка, перевод строки, перенос строки"
+		"text": "новая строка, перевод строки, перенос строки",
+		"translation": "newline"
 	},
 	{
-		"text": "tab",
-		"translation": "прогр. Табуляция, вкладка, закладка"
+		"text": "прогр. Табуляция, вкладка, закладка",
+		"translation": "tab"
   	},
 	  {
-		"text": "whitespace",
-		"translation": "пробел, пробельые символы"
+		"text": "пробел, пробельые символы",
+		"translation": "whitespace"
 	},
 	{
-		"text": "tokens",
-		"translation": "прогр. Последовательность входных элементов, жетоны"
+		"text": "прогр. Последовательность входных элементов, жетоны",
+		"translation": "tokens"
   	},
 	  {
-		"text": "hoisting",
-		"translation": "прил. подъемный, грузоподъемный, сущ. подъем, подъемник"
+		"text": "прил. подъемный, грузоподъемный, сущ. подъем, подъемник",
+		"translation": "hoisting"
 	},
 	{
-		"text": "oppositive",
-		"translation": "противоположный"
+		"text": "противоположный",
+		"translation": "oppositive"
   	},
 	  {
-		"text": "quotient",
-		"translation": "частное, коэффициент, фактор"
+		"text": "частное, коэффициент, фактор",
+		"translation": "quotient"
 	},
 	{
-		"text": "equal",
-		"translation": "равный, одинаковый, равносильный, равнозначный, равноправный"
+		"text": "равный, одинаковый, равносильный, равнозначный, равноправный",
+		"translation": "equal"
 	},
 	{
-		"text": "escape sequance",
-		"translation": "прогр. Экраннированная последовательность"
+		"text": "прогр. Экраннированная последовательность",
+		"translation": "escape sequance"
   	},
 	  {
-		"text": "escape",
-		"translation": "побег, бегство"
+		"text": "побег, бегство",
+		"translation": "escape"
 	},
 	{
-		"text": "sequance",
-		"translation": "последовательность"
+		"text": "последовательность",
+		"translation": "sequance"
   	},
 	  {
-		"text": "greeting",
-		"translation": "приветствие"
+		"text": "приветствие",
+		"translation": "greeting"
 	},
 	{
-		"text": "amount",
-		"translation": "количество"
+		"text": "количество",
+		"translation": "amount"
   	},
 	  {
-		"text": "count",
-		"translation": "считать"
+		"text": "считать",
+		"translation": "count"
 	},
 	{
-		"text": "exclamation",
-		"translation": "восклицание, вопль, крик"
+		"text": "восклицание, вопль, крик",
+		"translation": "exclamation"
   	},
 	  {
-		"text": "exclamation mark",
-		"translation": "восклицательный знак"
+		"text": "восклицательный знак",
+		"translation": "exclamation mark"
 	},
 	{
-		"text": "question",
-		"translation": "вопрос"
+		"text": "вопрос",
+		"translation": "question"
   	},
 	  {
-		"text": "spicy",
-		"translation": "острый"
+		"text": "острый",
+		"translation": "spicy"
 	},
 	{
-		"text": "great",
-		"translation": "отлично"
+		"text": "отлично",
+		"translation": "great"
   	},
 	  {
-		"text": "help yourself",
-		"translation": "угощайся"
+		"text": "угощайся",
+		"translation": "help yourself"
 	},
 	{
-		"text": "put up",
-		"translation": "смириться"
+		"text": "смириться",
+		"translation": "put up"
 	},
 	{
-		"text": "prepositions",
-		"translation": "предлоги"
+		"text": "предлоги",
+		"translation": "prepositions"
 	},
 	{
-		"text": "pretext",
-		"translation": "предлог, отговорка"
+		"text": "предлог, отговорка",
+		"translation": "pretext"
 	},
 	{
-		"text": "excuse",
-		"translation": "оправдание, отговорка, извинение"
+		"text": "оправдание, отговорка, извинение",
+		"translation": "excuse"
 	},
 	{
-		"text": "guise",
-		"translation": "облик, маска, вид, наружность"
+		"text": "облик, маска, вид, наружность",
+		"translation": "guise"
 	},
 	{
-		"text": "plea",
-		"translation": "заявление, просьба, призыв, мольба, довод"
+		"text": "заявление, просьба, призыв, мольба, довод",
+		"translation": "plea"
 	},
 	{
-		"text": "clook",
-		"translation": "плащ, мантия, покров, маска, личина, отговорка"
+		"text": "плащ, мантия, покров, маска, личина, отговорка",
+		"translation": "cloak"
 	},
 	{
-		"text": "color",
-		"translation": "цвет, краскаЮ оттенок, свет, фон"
+		"text": "цвет, краскаЮ оттенок, свет, фон",
+		"translation": "color"
 	},
 	{
-		"text": "reil",
-		"translation": "вдаль, завеса, покрывало, фата, покров, пелена"
+		"text": "вдаль, завеса, покрывало, фата, покров, пелена",
+		"translation": "veil"
 	},
 	{
-		"text": "cover",
-		"translation": "крышка, обложка, чехол, покров, кожух, прикрытие"
+		"text": "крышка, обложка, чехол, покров, кожух, прикрытие",
+		"translation": "cover"
 	},
 	{
-		"text": "handle",
-		"translation": "ручка, рукоятка, рукоять, удобный случай, сбор, вручение"
+		"text": "ручка, рукоятка, рукоять, удобный случай, сбор, вручение",
+		"translation": "handle"
+	},
+	{
+	  "text": "слепой, жалюзи, штора, маркиза, ширма, бленда",
+	  "translation": "blind"
+	},
+	{
+	  "text": "прикрытие, дымовая завеса",
+	  "translation": "cover-up"
+	},
+	{
+	  "text": "заслонная лошадь, подставное лицо, личина, отговорка",
+	  "translation": "stalking-horse"
+	},
+	{
+	  "text": "выключать",
+	  "translation": "to turn off"
+	},
+	{
+	  "text": "доставать",
+	  "translation": "to take out"
+	},
+	{
+	  "text": "неполнять",
+	  "translation": "to fill up"
+	},
+	{
+	  "text": "переезжать",
+	  "translation": "to run over"
+	},
+	{
+	  "text": "положить",
+	  "translation": "to put in"
+	},
+	{
+	  "text": "подключать",
+	  "translation": "to plug in"
+	},
+	{
+	  "text": "отпускать",
+	  "translation": "to let go"
 	}
 ],
 [
@@ -247,7 +287,7 @@
 		  "translation": "заявление, просьба, призыв, мольба, довод"
 	  },
 	  {
-		  "text": "clook",
+		  "text": "cloak",
 		  "translation": "плащ, мантия, покров, маска, личина, отговорка"
 	  },
 	  {
@@ -255,7 +295,7 @@
 		  "translation": "цвет, краскаЮ оттенок, свет, фон"
 	  },
 	  {
-		  "text": "reil",
+		  "text": "veil",
 		  "translation": "вдаль, завеса, покрывало, фата, покров, пелена"
 	  },
 	  {
@@ -265,6 +305,46 @@
 	  {
 		  "text": "handle",
 		  "translation": "ручка, рукоятка, рукоять, удобный случай, сбор, вручение"
+	  },
+	  {
+		"text": "blind",
+		"translation": "слепой, жалюзи, штора, маркиза, ширма, бленда"
+	  },
+	  {
+		"text": "cover-up",
+		"translation": "прикрытие, дымовая завеса"
+	  },
+	  {
+		"text": "stalking-horse",
+		"translation": "заслонная лошадь, подставное лицо, личина, отговорка"
+	  },
+	  {
+		"text": "to turn off",
+		"translation": "выключать"
+	  },
+	  {
+		"text": "to take out",
+		"translation": "доставать"
+	  },
+	  {
+		"text": "to fill up",
+		"translation": "неполнять"
+	  },
+	  {
+		"text": "to run over",
+		"translation": "переезжать"
+	  },
+	  {
+		"text": "to put in",
+		"translation": "положить"
+	  },
+	  {
+		"text": "to plug in",
+		"translation": "подключать"
+	  },
+	  {
+		"text": "to let go",
+		"translation": "отпускать"
 	  }
 ]
   ]  
